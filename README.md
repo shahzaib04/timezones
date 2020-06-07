@@ -1,4 +1,4 @@
-<p align="center"><img src="http://shahzaib-zafar.tk/img/logo.png" width="400"></p>
+
 
 
 ## About TimeZone
